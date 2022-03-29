@@ -512,7 +512,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url(../img/slide1.jpg);
+  background-image: url(../img/Canclan_Hero_1.jpg);
 }
 
 /* slide2 */
@@ -523,7 +523,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(2) .slide__bg {
   left: -50%;
-  background-image: url(../img/slide2.jpg);
+  background-image: url(../img/Canclan_Hero_2.jpg);
 }
 
 /* slide3 */
@@ -534,7 +534,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(3) .slide__bg {
   left: -100%;
-  background-image: url(../img/slide3.jpg);
+  background-image: url(../img/Canclan_Hero_3.jpg);
 }
 
 /* slide4 */
