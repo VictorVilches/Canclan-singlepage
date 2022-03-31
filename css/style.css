@@ -307,6 +307,10 @@ ul.social-list li a i {
   Logo
 ============================ */
 
+.logo_nav {
+	vertical-align: middle;
+}
+
 .navbar-brand {
 	font-size: 25px;
 	line-height: 30px;
@@ -334,6 +338,7 @@ ul.social-list li a i {
 	height: 100%;
 	cursor: all-scroll;
 	margin-top: 50px;
+	max-height: 950px;
 }
 
 .slider {
@@ -512,7 +517,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url(../img/Canclan_Hero_1.jpg);
+  background-image: url(../img/Hero_2_Paseos.jpg);
 }
 
 /* slide2 */
@@ -523,7 +528,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(2) .slide__bg {
   left: -50%;
-  background-image: url(../img/Canclan_Hero_2.jpg);
+  background-image: url(../img/Hero_3_Vet.jpg);
 }
 
 /* slide3 */
@@ -534,7 +539,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(3) .slide__bg {
   left: -100%;
-  background-image: url(../img/Canclan_Hero_3.jpg);
+  background-image: url(../img/Hero_4_Entrenador.jpg);
 }
 
 /* slide4 */
@@ -545,8 +550,9 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(4) .slide__bg {
   left: -150%;
-  background-image: url(../img/slide4.jpg);
+  background-image: url(../img/Hero_5_Guarderia.jpg);
 }
+
 
 /*===========================
   Services
@@ -1426,17 +1432,6 @@ footer .social-media li{display:inline-block;}
 	width: 100%;
 }
 
-.hr:before {
-	content: "\e026";
-	font-family: 'Flaticon';
-	font-weight: normal;
-	position: relative;
-	top: -0.8em;
-	color:#fff;
-	font-size: 15px;
-	padding: 0.4em  0.4em;
-	border-radius:50%;
-}
 
 .section-heading{
 	margin-bottom:120px;
