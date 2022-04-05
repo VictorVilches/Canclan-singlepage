@@ -338,7 +338,6 @@ ul.social-list li a i {
 	height: 100%;
 	cursor: all-scroll;
 	margin-top: 50px;
-	max-height: 950px;
 }
 
 .slider {
@@ -517,7 +516,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url(../img/Hero_2_Paseos.jpg);
+  background-image: url(../img/Hero_1.jpg);
 }
 
 /* slide2 */
@@ -528,7 +527,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(2) .slide__bg {
   left: -50%;
-  background-image: url(../img/Hero_3_Vet.jpg);
+  background-image: url(../img/Hero_2.jpg);
 }
 
 /* slide3 */
@@ -539,7 +538,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(3) .slide__bg {
   left: -100%;
-  background-image: url(../img/Hero_4_Entrenador.jpg);
+  background-image: url(../img/Hero_3.jpg);
 }
 
 /* slide4 */
@@ -550,7 +549,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(4) .slide__bg {
   left: -150%;
-  background-image: url(../img/Hero_5_Guarderia.jpg);
+  background-image: url(../img/Hero_4.jpg);
 }
 
 
