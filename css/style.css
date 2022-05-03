@@ -2504,3 +2504,9 @@ ul {font-size: 16px;}
 			
 	.panel-title {font-size: 20px;}
 }
+
+
+#extra-service > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)
+{
+	color: #222;
+}
