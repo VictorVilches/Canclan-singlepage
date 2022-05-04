@@ -2506,7 +2506,7 @@ ul {font-size: 16px;}
 }
 
 
-#extra-service > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)
+.servicio_extra_tittle
 {
 	color: #222;
 }
